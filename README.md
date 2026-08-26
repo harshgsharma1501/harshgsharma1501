@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects, DSA, Machine learning, Artificial Intelligence.<br>🤝 I’m looking for internships<br>🌱 I’m currently enrolled in computer engineering offered by VJTI, Mumbai<br>💬 Ask me about<br>⚡ Chill Guy
+🔭 I’m currently working on projects, DSA, Machine learning, Artificial Intelligence.<br>🤝 I’m looking for internships<br>🌱 I’m currently enrolled in computer engineering offered by VJTI, Mumbai<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
